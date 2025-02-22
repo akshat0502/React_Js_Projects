@@ -15,7 +15,7 @@
     <ul>
       <li><h3>Food Delivery Website Using React</h3></li>
       <li><p>
-      Tomato is a React.js-based web application designed to simplify food delivery and bring delicious meals to your doorstep. With its user-friendly interface, the platform ensures a smooth and enjoyable experience across all devices.
+      <b>Tomato</b> is a <b>React.js</b>-based web application designed to simplify food delivery and bring delicious meals to your doorstep. With its user-friendly interface, the platform ensures a smooth and enjoyable experience across all devices.
     </p></li>
     </ul>
   </li>
