@@ -24,7 +24,7 @@
     <ul>
       <li><h3>Food Delivery Website Using React</h3></li>
       <li><p>
-      <b>Edusity</b> is a <b>React.js</b>-based web application designed to simplify food delivery and bring delicious meals to your doorstep. With its user-friendly interface, the platform ensures a smooth and enjoyable experience across all devices.
+      <b>Edusity</b> is a <b>React.js</b>-based web application designed to showcase college programs, campus life, and resources in an engaging and accessible manner. Its intuitive, responsive design ensures a seamless user experience across all devices.
     </p></li>
     </ul>
   </li>
