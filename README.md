@@ -19,4 +19,13 @@
     </p></li>
     </ul>
   </li>
+  <li>
+    <h2>Edusity(<a href="https://github.com/akshat0502/Edusity">Repository/code</a>) :  <a href="https://tomato-chi-steel.vercel.app/">Live demo</a ></h2>
+    <ul>
+      <li><h3>Food Delivery Website Using React</h3></li>
+      <li><p>
+      <b>Edusity</b> is a <b>React.js</b>-based web application designed to simplify food delivery and bring delicious meals to your doorstep. With its user-friendly interface, the platform ensures a smooth and enjoyable experience across all devices.
+    </p></li>
+    </ul>
+  </li>
 </ol>
