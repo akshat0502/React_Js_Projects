@@ -22,7 +22,7 @@
   <li>
     <h2>Edusity(<a href="https://github.com/akshat0502/Edusity">Repository/code</a>) :  <a href="https://edusity-six-beige.vercel.app/">Live demo</a ></h2>
     <ul>
-      <li><h3>Food Delivery Website Using React</h3></li>
+      <li><h3>College Landing Page Using React</h3></li>
       <li><p>
       <b>Edusity</b> is a <b>React.js</b>-based web application designed to showcase college programs, campus life, and resources in an engaging and accessible manner. Its intuitive, responsive design ensures a seamless user experience across all devices.
     </p></li>
