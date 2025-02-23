@@ -4,9 +4,8 @@
     <h2>Prescripto(<a href="https://github.com/akshat0502/Prescripto">Repository/code</a>) :  <a href="https://prescripto-lime.vercel.app/">Live demo</a ></h2>
     <ul>
       <li><h3>Doctor Appointment Booking Website Using React</h3></li>
-      <li><p>
+      <li>
             <b>Prescripto</b> is a web application built with <b>React.js</b>, designed to simplify the process of booking doctor appointments. It offers a responsive and intuitive user interface, ensuring seamless navigation across devices.
-          </p>
       </li>
     </ul>
   </li>
