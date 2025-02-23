@@ -1,4 +1,4 @@
-# React_Js_Projects
+# React Js Projects
 <ol>
   <li>
     <h2>Prescripto(<a href="https://github.com/akshat0502/Prescripto">Repository/code</a>) :  <a href="https://prescripto-lime.vercel.app/">Live demo</a ></h2>
