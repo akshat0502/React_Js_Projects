@@ -32,7 +32,7 @@
     <ul>
       <li><h3>Tic Tac Toe Game Using React</h3></li>
       <li>
-      <b>Edusity</b> is a <b>React.js</b>-based web application designed to showcase college programs, campus life, and resources in an engaging and accessible manner. Its intuitive, responsive design ensures a seamless user experience across all devices.
+      This guide explains how to create and run a <b>React-based Tic Tac Toe game</b> for two players. The game allows players to take turns marking X and O on a 3x3 grid and declares the winner or a tie.
     </li>
     </ul>
   </li>
