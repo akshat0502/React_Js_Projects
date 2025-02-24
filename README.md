@@ -32,7 +32,7 @@
     <ul>
       <li><h3>Tic Tac Toe Game Using React</h3></li>
       <li>
-      This guide explains how to create and run a <b>React-based Tic Tac Toe game</b> for two players. The game allows players to take turns marking <b>X</b> and <b>O</b> on a 3x3 grid and declares the winner or a tie.
+      This guide explains how to create and run a <b>React-based Tic Tac Toe game</b> for two players. The game allows players to take turns marking <b>X</b> and <b>O</b> on a <b>3x3 grid</b> and declares the <b>winner or a tie</b>.
     </li>
     </ul>
   </li>
