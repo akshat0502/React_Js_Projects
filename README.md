@@ -27,4 +27,13 @@
     </li>
     </ul>
   </li>
+  <li>
+    <h2>Tic Tac Toe Game(<a href="https://github.com/akshat0502/Tic-Tac-Toe_Game">Repository/code</a>) :  <a href="https://tic-tac-toe-game-azure-five.vercel.app/">Live demo</a ></h2>
+<!--     <ul>
+      <li><h3>College Landing Page Using React</h3></li>
+      <li>
+      <b>Edusity</b> is a <b>React.js</b>-based web application designed to showcase college programs, campus life, and resources in an engaging and accessible manner. Its intuitive, responsive design ensures a seamless user experience across all devices.
+    </li>
+    </ul> -->
+  </li>
 </ol>
