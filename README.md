@@ -41,7 +41,7 @@
     <ul>
       <li><h3>E-State Website Using React</h3></li>
       <li>
-      <b>Estate</b> is a React.js-powered web application designed to simplify real estate transactions and help users find their perfect property. Its modern, responsive interface ensures an effortless browsing experience across all devices.
+      <b>Estate</b> is a <b>React.js</b>-powered web application designed to simplify real estate transactions and help users find their perfect property. Its modern, responsive interface ensures an effortless browsing experience across all devices.
     </li>
     </ul>
   </li>
