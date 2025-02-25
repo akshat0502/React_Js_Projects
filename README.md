@@ -39,7 +39,7 @@
   <li>
     <h2>Estate(<a href="https://github.com/akshat0502/Estate">Repository/code</a>) :  <a href="https://estate-kappa-nine.vercel.app/">Live demo</a ></h2>
     <ul>
-      <li><h3>Tic Tac Toe Game Using React</h3></li>
+      <li><h3>E-State Website Using React</h3></li>
       <li>
       This guide explains how to create and run a <b>React-based Tic Tac Toe game</b> for two players. The game allows players to take turns marking <b>X</b> and <b>O</b> on a <b>3x3 grid</b> and declares the <b>winner or a tie</b>.
     </li>
