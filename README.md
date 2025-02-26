@@ -45,4 +45,13 @@
     </li>
     </ul>
   </li>
+  <li>
+    <h2>EV Web(<a href="https://github.com/akshat0502/EvWeb">Repository/code</a>) :  </h2>
+    <ul>
+      <li><h3>E-State Website Using React</h3></li>
+      <li>
+      <b>Estate</b> is a <b>React.js</b>-powered web application designed to simplify real estate transactions and help users <b>find their perfect property.</b> Its modern, responsive interface ensures an <b>effortless browsing experience across all devices.</b>
+    </li>
+    </ul>
+  </li>
 </ol>
