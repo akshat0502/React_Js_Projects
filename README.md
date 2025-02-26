@@ -50,7 +50,7 @@
     <ul>
       <li><h3>EV Web Using React</h3></li>
       <li>
-      <b>Estate</b> is a <b>React.js</b>-powered web application designed to simplify real estate transactions and help users <b>find their perfect property.</b> Its modern, responsive interface ensures an <b>effortless browsing experience across all devices.</b>
+      This guide explains how to create and run a React-based frontend for an Electric Vehicle (EV) Website, showcasing photos and videos of electric vehicles.
     </li>
     </ul>
   </li>
