@@ -57,7 +57,7 @@
   <li>
     <h2>NEWS APP(<a href="https://github.com/akshat0502/NEWS-APP">Repository/code</a>) :  </h2>
     <ul>
-      <li><h3>EV Web Using React</h3></li>
+      <li><h3>News App Using React</h3></li>
       <li>
       This guide explains how to create and run a React-based frontend for an Electric Vehicle (EV) Website, showcasing photos and videos of electric vehicles.
     </li>
