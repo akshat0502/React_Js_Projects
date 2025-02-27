@@ -59,7 +59,7 @@
     <ul>
       <li><h3>News App Using React</h3></li>
       <li>
-      This guide explains how to create and run a React-based frontend for an Electric Vehicle (EV) Website, showcasing photos and videos of electric vehicles.
+      NEWS-APP is a React.js-based web application designed to provide users with instant access to the latest news and updates from around the world. Its sleek, responsive design ensures a seamless reading experience across all devices.
     </li>
     </ul>
   </li>
