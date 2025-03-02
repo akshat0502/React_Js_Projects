@@ -70,7 +70,7 @@
     <ul>
       <li><h3>E-commerce Website Using React</h3></li>
       <li>
-     <b> NEWS-APP</b> is a <b>React.js-based</b> web application designed to provide users with instant access to the latest news and updates from around the world. Its <b>sleek, responsive design ensures a seamless reading experience across all devices.</b>
+     <b> E-commerce</b> is a <b>React.js-based</b> web application designed to provide users with instant access to the latest news and updates from around the world. Its <b>sleek, responsive design ensures a seamless reading experience across all devices.</b>
     </li>
     </ul>
   </li>
