@@ -70,7 +70,7 @@
     <ul>
       <li><h3>E-commerce Website Using React</h3></li>
       <li>
-     <b> E-commerce</b> is a <b>React.js</b> and <b>Tailwind CSS</b> involves <b> several key components and technologies </b> to ensure a <b>modern, responsive, and scalable application.</b>
+     <b> E-commerce</b> is a <b>React.js</b> and <b>Tailwind CSS</b> involves <b> several key components </b> and <b> technologies </b> to ensure a <b>modern, responsive, and scalable application.</b>
     </li>
     </ul>
   </li>
