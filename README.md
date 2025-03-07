@@ -55,7 +55,7 @@
     </ul>
   </li>
   <li>
-    <h2>NEWS APP(<a href="https://github.com/akshat0502/NEWS-APP">Repository/code</a>) :  </h2>
+    <h2>NEWS APP (<a href="https://github.com/akshat0502/NEWS-APP">Repository/code</a>) :  </h2>
     <ul>
       <li><h3>News App Using React</h3></li>
       <li>
