@@ -10,7 +10,7 @@
     </ul>
   </li>
   <li>
-    <h2>Tomata(<a href="https://github.com/akshat0502/Tomato">Repository/code</a>) :  <a href="https://tomato-chi-steel.vercel.app/">Live demo</a ></h2>
+    <h2>Tomata(<a href="https://github.com/akshat0502/Tomato">Repository/code</a>) :  <a href="https://tomato-chi-steel.vercel.app/">Live/Demo</a ></h2>
     <ul>
       <li><h3>Food Delivery Website Using React</h3></li>
       <li>
