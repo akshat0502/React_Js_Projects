@@ -28,7 +28,7 @@
     </ul>
   </li>
   <li>
-    <h2>Tic Tac Toe Game(<a href="https://github.com/akshat0502/Tic-Tac-Toe_Game">Repository/code</a>) :  <a href="https://tic-tac-toe-game-azure-five.vercel.app/">Live demo</a ></h2>
+    <h2>Tic Tac Toe Game(<a href="https://github.com/akshat0502/Tic-Tac-Toe_Game">Repository/code</a>) :  <a href="https://tic-tac-toe-game-azure-five.vercel.app/">Live/Demo</a ></h2>
     <ul>
       <li><h3>Tic Tac Toe Game Using React</h3></li>
       <li>
