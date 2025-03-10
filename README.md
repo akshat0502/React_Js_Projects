@@ -19,7 +19,7 @@
     </ul>
   </li>
   <li>
-    <h2>Edusity(<a href="https://github.com/akshat0502/Edusity">Repository/code</a>) :  <a href="https://edusity-six-beige.vercel.app/">Live demo</a ></h2>
+    <h2>Edusity(<a href="https://github.com/akshat0502/Edusity">Repository/code</a>) :  <a href="https://edusity-six-beige.vercel.app/">Live/Demo</a ></h2>
     <ul>
       <li><h3>College Landing Page Using React</h3></li>
       <li>
