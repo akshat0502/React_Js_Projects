@@ -23,7 +23,7 @@
     <ul>
       <li><h3>College Landing Page Using React</h3></li>
       <li>
-      <b>Edusity</b> is a <b>React.js</b>-based web application designed to showcase college programs, campus life, and resources in an engaging and accessible manner. Its intuitive, responsive design ensures a seamless user experience across all devices.
+      <b>Edusity</b> is a <b>React.js</b>-based web application designed to showcase <b>college programs, campus life,</b> and resources in an engaging and accessible manner. Its intuitive, responsive design ensures a seamless user experience across all devices.
     </li>
     </ul>
   </li>
