@@ -59,7 +59,7 @@
     <ul>
       <li><h3>News App Using React</h3></li>
       <li>
-     <b> NEWS-APP</b> is a <b>React.js-based</b> web application designed to provide users with instant access to the <b>latest news</b> and updates from around the world. Its <b>sleek, responsive design ensures a seamless reading experience across all devices.</b>
+     <b> NEWS-APP</b> is a <b>React.js-based</b> web application designed to provide users with instant access to the <b>latest news</b> and <b>updates from around the world</b>. Its <b>sleek, responsive design ensures a seamless reading experience across all devices.</b>
     </li>
     </ul>
   </li>
