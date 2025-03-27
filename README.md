@@ -50,7 +50,7 @@
     <ul>
       <li><h3>EV Web Using React</h3></li>
       <li>
-      This guide explains how to create and run a React-based frontend for an Electric Vehicle (EV) Website, showcasing photos and videos of electric vehicles.
+      This guide explains how to create and run a React-based frontend for an <b>Electric Vehicle (EV) Website</b>, showcasing photos and videos of electric vehicles.
     </li>
     </ul>
   </li>
