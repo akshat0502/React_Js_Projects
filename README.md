@@ -22,8 +22,7 @@
     <h2>Edusity(<a href="https://github.com/akshat0502/Edusity">Repository/code</a>) :  <a href="https://edusity-six-beige.vercel.app/">Live/Demo</a ></h2>
     <ul>
       <li><h3>College Landing Page Using React</h3></li>
-      <li>
-      <b><a href="https://github.com/akshat0502/Edusity">Edusity</a></b> is a <b>React.js</b>-based web application designed to showcase <b>college programs, campus life,</b> and <b>resources</b> in an <b>engaging</b> and <b>accessible manner</b>. Its intuitive, <b>responsive design</b> ensures a <b>seamless user experience across all devices.</b>
+      <liEdusity</b> is a <b>React.js</b>-based web application designed to showcase <b>college programs, campus life,</b> and <b>resources</b> in an <b>engaging</b> and <b>accessible manner</b>. Its intuitive, <b>responsive design</b> ensures a <b>seamless user experience across all devices.</b>
     </li>
     </ul>
   </li>
