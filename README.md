@@ -14,7 +14,7 @@
     <ul>
       <li><h3>Food Delivery Website Using React</h3></li>
       <li>
-      <b>Zomato</b> is a <b>React.js</b>-based web application designed to simplify <b>food delivery</b> and bring delicious <b>meals to your doorstep</b>. With its <b>user-friendly interface</b>, the platform ensures a <b>smooth</b> and <b>enjoyable experience across all devices.</b>
+      <b>Tomato</b> is a <b>React.js</b>-based web application designed to simplify <b>food delivery</b> and bring delicious <b>meals to your doorstep</b>. With its <b>user-friendly interface</b>, the platform ensures a <b>smooth</b> and <b>enjoyable experience across all devices.</b>
     </li>
     </ul>
   </li>
