@@ -84,3 +84,5 @@ https://drive.google.com/file/d/1_XCvbRE0FnUAibla64QkZvCdGg7Zsw_6/view?usp=drive
 	•	Click Finish.
 	3.	Build the project: Right-click → Run As > Maven install
 	4.	Add to Tomcat server and access in browser:
+
+http://localhost:8080/RegistrationApp/index.html
