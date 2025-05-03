@@ -75,3 +75,12 @@
   </li>
 </ol>
 https://drive.google.com/file/d/1_XCvbRE0FnUAibla64QkZvCdGg7Zsw_6/view?usp=drivesdk
+
+
+1.	Download & Extract the ZIP.
+	2.	In Eclipse:
+	•	Go to File > Import > Existing Maven Projects
+	•	Browse to the extracted folder.
+	•	Click Finish.
+	3.	Build the project: Right-click → Run As > Maven install
+	4.	Add to Tomcat server and access in browser:
