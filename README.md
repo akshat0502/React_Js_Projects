@@ -86,3 +86,14 @@ https://drive.google.com/file/d/1_XCvbRE0FnUAibla64QkZvCdGg7Zsw_6/view?usp=drive
 	4.	Add to Tomcat server and access in browser:
 
 http://localhost:8080/RegistrationApp/index.html
+
+
+CREATE DATABASE your_database;
+USE your_database;
+
+CREATE TABLE users (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(100),
+    email VARCHAR(100),
+    password VARCHAR(100)
+);
