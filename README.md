@@ -91,9 +91,3 @@ http://localhost:8080/RegistrationApp/index.html
 CREATE DATABASE your_database;
 USE your_database;
 
-CREATE TABLE users (
-    id INT AUTO_INCREMENT PRIMARY KEY,
-    name VARCHAR(100),
-    email VARCHAR(100),
-    password VARCHAR(100)
-);
