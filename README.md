@@ -88,6 +88,4 @@ https://drive.google.com/file/d/1_XCvbRE0FnUAibla64QkZvCdGg7Zsw_6/view?usp=drive
 http://localhost:8080/RegistrationApp/index.html
 
 
-CREATE DATABASE your_database;
-USE your_database;
 
